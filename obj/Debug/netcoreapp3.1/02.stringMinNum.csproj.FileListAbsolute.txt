@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.exe
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.dll
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\bin\Debug\netcoreapp3.1\02.stringMinNum.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.dll
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\02.stringMinNum\obj\Debug\netcoreapp3.1\02.stringMinNum.genruntimeconfig.cache
